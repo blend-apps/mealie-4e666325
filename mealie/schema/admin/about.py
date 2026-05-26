@@ -25,21 +25,23 @@ class AppInfo(MealieModel):
 
 
 class AppTheme(MealieModel):
-    light_primary: str = "#E58325"
-    light_accent: str = "#007A99"
-    light_secondary: str = "#973542"
-    light_success: str = "#43A047"
-    light_info: str = "#1976D2"
-    light_warning: str = "#FF6D00"
-    light_error: str = "#EF5350"
+    # Grayscale palette — light mode
+    light_primary: str = "#212121"
+    light_accent: str = "#424242"
+    light_secondary: str = "#616161"
+    light_success: str = "#4F4F4F"
+    light_info: str = "#757575"
+    light_warning: str = "#9E9E9E"
+    light_error: str = "#000000"
 
-    dark_primary: str = "#E58325"
-    dark_accent: str = "#007A99"
-    dark_secondary: str = "#973542"
-    dark_success: str = "#43A047"
-    dark_info: str = "#1976D2"
-    dark_warning: str = "#FF6D00"
-    dark_error: str = "#EF5350"
+    # Grayscale palette — dark mode
+    dark_primary: str = "#FAFAFA"
+    dark_accent: str = "#E0E0E0"
+    dark_secondary: str = "#BDBDBD"
+    dark_success: str = "#9E9E9E"
+    dark_info: str = "#757575"
+    dark_warning: str = "#BDBDBD"
+    dark_error: str = "#FFFFFF"
 
 
 class AppStartupInfo(MealieModel):
