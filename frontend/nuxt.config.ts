@@ -29,14 +29,14 @@ export default defineNuxtConfig({
     baseURL: process.env.SUB_PATH || "/",
 
     head: {
-      title: "Mealie",
+      title: "Erik-Dan-Beefy-Boys",
       meta: [
         { property: "og:type", content: "website" },
-        { property: "og:title", content: "Mealie" },
-        { property: "og:site_name", content: "Mealie" },
+        { property: "og:title", content: "Erik-Dan-Beefy-Boys" },
+        { property: "og:site_name", content: "Erik-Dan-Beefy-Boys" },
         {
           property: "og:description",
-          content: "Mealie is a recipe management app for your kitchen.",
+          content: "Erik-Dan-Beefy-Boys is a recipe management app for your kitchen.",
         },
         {
           property: "og:image",
@@ -47,7 +47,7 @@ export default defineNuxtConfig({
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
           name: "description",
-          content: "Mealie is a recipe management app for your kitchen.",
+          content: "Erik-Dan-Beefy-Boys is a recipe management app for your kitchen.",
         },
       ],
       script: [
