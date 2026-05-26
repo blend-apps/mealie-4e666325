@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "About",
-    "about-mealie": "About Mealie",
+    "about-mealie": "About Erik-Dan-Beefy-Boys",
     "api-docs": "API Docs",
     "api-port": "API Port",
     "application-mode": "Application Mode",
@@ -780,7 +780,7 @@
     "clear-selection": "Clear Selection",
     "results": "Results",
     "search": "Search",
-    "search-mealie": "Search Mealie (press /)",
+    "search-mealie": "Search Erik-Dan-Beefy-Boys (press /)",
     "search-placeholder": "Search...",
     "tag-filter": "Tag Filter",
     "search-hint": "Press '/'",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "Sign Up Links",
     "sign-up-token-deleted": "Sign Up Token Deleted",
     "sign-up-token-deletion-failed": "Sign up token deletion failed",
-    "welcome-to-mealie": "Welcome to Mealie! To become a user of this instance you are required to have a valid invitation link. If you haven't recieved an invitation you are unable to sign-up. To recieve a link, contact the sites administrator."
+    "welcome-to-mealie": "Welcome to Erik-Dan-Beefy-Boys! To become a user of this instance you are required to have a valid invitation link. If you haven't recieved an invitation you are unable to sign-up. To recieve a link, contact the sites administrator."
   },
   "tag": {
     "tag-created": "Tag created",
@@ -1393,13 +1393,13 @@
     "tasks": "Tasks",
     "setup": {
       "first-time-setup": "First Time Setup",
-      "welcome-to-mealie-get-started": "Welcome to Mealie! Let's get started",
+      "welcome-to-mealie-get-started": "Welcome to Erik-Dan-Beefy-Boys! Let's get started",
       "already-set-up-bring-to-homepage": "I'm already set up, just bring me to the homepage",
       "common-settings-for-new-sites": "Here are some common settings for new sites",
       "setup-complete": "Setup Complete!",
 
       "ai-providers-description": "Optionally configure AI providers for your group. AI providers enable features like creating recipes from images, importing recipes from videos, and enhanced ingredient parsing. You can always configure this later from your group settings.",
-      "here-are-a-few-things-to-help-you-get-started": "Here are a few things to help you get started with Mealie",
+      "here-are-a-few-things-to-help-you-get-started": "Here are a few things to help you get started with Erik-Dan-Beefy-Boys",
       "restore-from-v1-backup": "Have a backup from a previous instance of Mealie v1? You can restore it here.",
       "manage-profile-or-get-invite-link": "Manage your own profile, or grab an invite link to share with others."
     },

@@ -25,7 +25,7 @@
         style="cursor: pointer"
         @click="$router.push(routerLink)"
       >
-        Mealie
+        Erik-Dan-Beefy-Boys
       </v-toolbar-title>
     </div>
     <RecipeDialogSearch ref="domSearchDialog" />

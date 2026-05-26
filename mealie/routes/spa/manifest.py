@@ -11,15 +11,15 @@ def serve_manifest():
     sub_path = urlparse(settings.BASE_URL).path or "/"
 
     manifest = {
-        "name": "Mealie",
-        "short_name": "Mealie",
+        "name": "Erik-Dan-Beefy-Boys",
+        "short_name": "Erik-Dan-Beefy-Boys",
         "id": "/",
         "start_url": sub_path,
         "scope": sub_path,
         "display": "standalone",
         "background_color": "#1E1E1E",
         "theme_color": settings.theme.light_primary,
-        "description": "Mealie is a recipe management and meal planning app",
+        "description": "Erik-Dan-Beefy-Boys is a recipe management and meal planning app",
         "lang": "en",
         "display_override": ["standalone", "minimal-ui", "browser", "window-controls-overlay"],
         "categories": ["food", "lifestyle"],
